@@ -11,3 +11,7 @@
 2025.7.26：观看视频，视频链接为：
             【使用Python构建RAG系统 —— 用代码还原 RAG系统的每个细节】 https://www.bilibili.com/video/BV1wc3izUEUb/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
 这个视频和昨天的demo视频相似，只是用的是jupyter notebook来写的代码且多了个重排环节（cross-encoder模型）
+
+2025.7.27：观看视频，视频链接为：
+            【【Qwen2.5-7B微调】30分钟手把手带你用Fine-Tuning微调Qwen2.5-7B，实现低成本微调行业大模型，全程干货，草履虫也能学会！！（附教程）】 https://www.bilibili.com/video/BV1RiPVe8Ei5/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
+注册了AutoDL，从该视频中可以学到SSH远程控制服务器，该视频仅仅是对微调的一个展示，并未深入教学，就是带你很粗略地走了遍流程。
