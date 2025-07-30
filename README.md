@@ -18,3 +18,7 @@
 
 2025.7.28~29：【4小时打造垂域专属大模型，Qwen3企业级微调实战！详解数据集创建方法+微调流程+微调模型性能评估完整流程｜实现知识灌注、MCP能力增强、推理性能优化！】 https://www.bilibili.com/video/BV1YLE1zyEvX/?p=5&share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
 这是个系列视频，看完了原理，主要是构造数据集得很小心，边训练还得兼顾不让模型出现灾难性遗忘。在自己的机器上折腾老半天，老是遇到各种各样的问题，决意明天在AutoDL上再折腾。
+
+2025.7.30：观看视频，视频链接为：
+            【【DeepSeek+LoRA+FastAPI】开发人员如何微调大模型并暴露接口给后端调用】 https://www.bilibili.com/video/BV1R6P7eVEtd/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
+这个UP讲的细且文档做的好，适合我这种小白，可以多关注下这个UP主。跟着视频走了一遍流程（在AutoDL租算力、连接SSH到VSCode中的终端、执行了LLaMA-Factory 安装部署、从huggingface下载模型到LLaMA-Factory环境中、准备数据集微调最重要的还是数据集的构建、在LLama-Factory 的可视化微调界⾯进行微调无代码操作简单、微调完毕导出合并后的模型、创建fast-api环境通过 FastAPI 部署模型并暴露 HTTP 接⼝、然后做前后端工作我没做、还有如何开放服务端⼝到公⽹企业部署等UP主也不会哈哈）。
