@@ -22,3 +22,7 @@
 2025.7.30：观看视频，视频链接为：
             【【DeepSeek+LoRA+FastAPI】开发人员如何微调大模型并暴露接口给后端调用】 https://www.bilibili.com/video/BV1R6P7eVEtd/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
 这个UP讲的细且文档做的好，适合我这种小白，可以多关注下这个UP主。跟着视频走了一遍流程（在AutoDL租算力、连接SSH到VSCode中的终端、执行了LLaMA-Factory 安装部署、从huggingface下载模型到LLaMA-Factory环境中、准备数据集微调最重要的还是数据集的构建、在LLama-Factory 的可视化微调界⾯进行微调无代码操作简单、微调完毕导出合并后的模型、创建fast-api环境通过 FastAPI 部署模型并暴露 HTTP 接⼝、然后做前后端工作我没做、还有如何开放服务端⼝到公⽹企业部署等UP主也不会哈哈）。
+
+2025.7.31:观看视频，视频链接为：
+            【【知识科普】【纯本地化搭建】【不本地也行】DeepSeek + RAGFlow 构建个人知识库】 https://www.bilibili.com/video/BV1WiP2ezE5a/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
+下载ollama是一个本地部署运行和管理大语言模型的工具（它有自己的网页），上github下载Ragflow源代码（这里并不包含它运行所需的环境和依赖），下载Docker（是一个封装好的环境，但是下载会遇到一些困难），Ragflow的文档中还有关于docker的代码在相应文件夹运行即可下载到适配的docker的镜像，在本地访问端口启动载Ragflow即可，在浏览器中打开Ragflow然后设置知识库啥的。需要注意的是本地电脑不但要有内存，还要有运存！看了评论区会遇到诸多问题，遂决定放弃跟做。
