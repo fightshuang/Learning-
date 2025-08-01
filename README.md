@@ -26,3 +26,15 @@
 2025.7.31:观看视频，视频链接为：
             【【知识科普】【纯本地化搭建】【不本地也行】DeepSeek + RAGFlow 构建个人知识库】 https://www.bilibili.com/video/BV1WiP2ezE5a/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
 下载ollama是一个本地部署运行和管理大语言模型的工具（它有自己的网页），上github下载Ragflow源代码（这里并不包含它运行所需的环境和依赖），下载Docker（是一个封装好的环境，但是下载会遇到一些困难），Ragflow的文档中还有关于docker的代码在相应文件夹运行即可下载到适配的docker的镜像，在本地访问端口启动载Ragflow即可，在浏览器中打开Ragflow然后设置知识库啥的。需要注意的是本地电脑不但要有内存，还要有运存！看了评论区会遇到诸多问题，遂决定放弃跟做。
+
+2025.8.1:阅读文档，文档链接为：
+            https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd
+跟做了第一个项目：使用CherryStudio+高德MCP打造个人出行规划助理，下载CherryStudio并在其中跳转申请大模型的Api（早已有了），上高德开放平台：https://console.amap.com/dev/id/select弄好MCP，在CherryStudio设置好MCP服务即可。用起来很傻瓜方便，并未涉及到设计这块，只是用了。
+将AI出行助手生成的行程（文字版），在加上下面这段提示语↓，放到ChatGPT4o中，即可生成行程图（把以上的三天旅游规划生成三张现代风格的手帐插画图提示词，我希望插画偏可爱风格，每张插画是要包含景点、交通和天气的全部信息，插画是以人物旅行为主视角（比如一个女生旅行），手写文字。）
+主流的MCP工具网站：
+MCP官方服务器合集：https://github.com/modelcontextprotocol/servers
+MCP Github热门导航：https://github.com/punkpeye/awesome-mcp-servers
+Smithery：https://smithery.ai/
+MCP导航：https://mcp.so/
+阿里云百炼：https://bailian.console.aliyun.com/?tab=mcp
+
