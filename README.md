@@ -46,4 +46,12 @@ MCP导航：https://mcp.so/
 
 2025.8.3:阅读文档，文档链接为：
             https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  数据分析Agent DB-GPT项目实战
-跟做了，因为我认为数据中大有机会！这个项目对AI数据分析应该是第一，但是很依赖LLM的质量，调用GPT-4效果会好点。注册了智谱的API，下载了FinalShell进行了使用，可以师兄SSH链接挺好用的。
+跟做了，因为我认为数据中大有机会！这个项目对AI数据分析应该是第一，但是很依赖LLM的质量，调用GPT-4效果会好点。注册了智谱的API，下载了FinalShell进行了使用，可以使用SSH链接挺好用的。
+
+2025.8.4:阅读文档，文档链接为：
+            https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  从零搭建智能客服系统
+一个L2级的Agent级的Agent ，本质上就是⼀个具备推理能⼒的聊天机器⼈。部署Open WebUI是⼀个开源项⽬ ，该项⽬提供⼀个⽤⼾友好的Web界⾯ ，使开发者和⾮技术⽤⼾都 能够⽅便地与机器学习模型、⼤模型等进⾏交互。实现了可交互的问答界面。
+然后造一份商家后台的商品信息模拟数据（这里教了Navicat可视化的工具连接 MySQL），然后构建大模型能够调用的函数并使得大模型能够正经用上该函数方法（可以说是Function Calling的纯手动实现教程）。讨论了并行函数调用和如何接入多个工具。
+在Open WebUI接入开源大模型，个性化定制智能客服，给智能客服添加私有工具（即自己写的价格查询、结构查询函数）。没做，已理解不做。
+
+
