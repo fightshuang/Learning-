@@ -59,6 +59,7 @@ c
 2025.8.5:阅读文档，文档链接为：
             https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  B站动态数据&舆情分析智能体
 大模型本身是无法采取任何行动的，它们的作用只是用来输出文本，所以他只能作为大脑在接收信息后给出指令。
+这里没给出教程，只是介绍了该项目，展示了一个正经的agents是怎么个框架，还详细讲解了langchain、langgraph。
 
 
 
