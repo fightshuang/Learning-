@@ -59,8 +59,18 @@ c
 2025.8.5:阅读文档，文档链接为：
             https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  B站动态数据&舆情分析智能体
 大模型本身是无法采取任何行动的，它们的作用只是用来输出文本，所以他只能作为大脑在接收信息后给出指令。
-这里没给出教程，只是介绍了该项目，展示了一个正经的agents是怎么个框架，还详细讲解了langchain、langgraph。
+这里没给出教程，只是介绍了该项目，展示了一个正经的agents是怎么个框架，还讲解了langchain、langgraph。
 
+2025.8.6:阅读文档，文档链接为：
+            https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  CrewAI+LangChain搭建Multi Agent
+弄OpenAI的apikey弄了老半天，太麻烦了，虚拟卡平台被管控了，其他的平台成本太大50美刀算了。
+尝试用OpenRouter来代替，能调用免费模型但是OpenRouter和后续的LangChain有点不兼容，要在LangChain中实例化LLM的时候，对应的模型有点难得找（找不到deepseek、qwen），或者说问题不在这，而是OpenRouter弄出的模型无法在LangChain中实例化模型。
+附带的视频有对着OpenAI和LangChain文档讲，看了就知道大概怎么调用，后面忘了可以重看。
+
+
+观看视频：
+            【OpenRouter国内免费使用！聚合超多主流大模型，免费还不怕封号！】 https://www.bilibili.com/video/BV16GRPYXEzC/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
+视频里教了怎么使用OpenRouter，它类似OpenAI的调用，但是实际上里头调用的不一定是GPT。OpenRouter本身并不是一个模型商，它实际上是模型调用的整合平台。
 
 
 
