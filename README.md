@@ -72,7 +72,7 @@ c
             【OpenRouter国内免费使用！聚合超多主流大模型，免费还不怕封号！】 https://www.bilibili.com/video/BV16GRPYXEzC/?share_source=copy_web&vd_source=54937f7fc746a085e167e38a94abf401
 视频里教了怎么使用OpenRouter，它类似OpenAI的调用，但是实际上里头调用的不一定是GPT。OpenRouter本身并不是一个模型商，它实际上是模型调用的整合平台。
 
-2025.8.6:阅读文档，文档链接为：
+2025.8.8:阅读文档，文档链接为：
             https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  实现类ChatGPT智能对话系统项目实战
 文档内容涉及安装Docker和安装Qdrant向量数据库，基本懂得。无需跟做。视频未看。
             https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  零门槛部署Qwen开源大模型实战
