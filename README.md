@@ -75,8 +75,10 @@ c
 2025.8.6:阅读文档，文档链接为：
             https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  实现类ChatGPT智能对话系统项目实战
 文档内容涉及安装Docker和安装Qdrant向量数据库，基本懂得。无需跟做。视频未看。
-
-
+            https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  零门槛部署Qwen开源大模型实战
+借用ModelScope来从阿里云弄到免费算力，手动下载部署到网上的服务器上。还讲了ollama部署的方法。
+            https://kq4b3vgg5b.feishu.cn/wiki/QYONwI5tPiLEzLkMcWdcUCshnwd  Qwen1.5 高效微调实战
+基于LlaMa-Factory的高效微调流程
 
 
 
